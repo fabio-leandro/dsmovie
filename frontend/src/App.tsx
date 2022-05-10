@@ -1,8 +1,11 @@
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import Navbar from './componentes/Navbar';
 
 function App() {
-  return (
-    <h1>Programa Principal</h1>
-  );
+  return(
+    <Navbar/>
+  )
+
 }
 
 export default App;
