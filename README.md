@@ -11,8 +11,8 @@ Site DevSuperior: https://devsuperior.com.br
 <ul>
   Tecnologias
   <li>Backend: Java, Maven, SpringBoot, SpringDataJpa, Banco de dados em memória H2, Postgres;</li>
-  <li>FrondEnd: React, CSS, HTML, JavaScript, TypeScript.</li>
-  <li>Nuvem Backend: Heroku.</li>
+  <li>FrondEnd: React, CSS, HTML, JavaScript, TypeScript;</li>
+  <li>Nuvem Backend: Heroku;</li>
   <li>Nuvem FrontEnd: Netlify.</li>
 </ul>
 
