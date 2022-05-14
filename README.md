@@ -1,13 +1,11 @@
-# dsmovie
-Semana Spring React com Professor Nélio Alves.
+# Semana Spring React com Professor Nélio Alves
 
-Na trilha profissional construimos o backend com Spring e o frontend com React.
+<p>Na trilha profissional construimos o backend com Spring e o frontend com React.</p>
 
-Professor Nélio Alves: https://github.com/devsuperior 
-Canal DevSuperior: https://www.youtube.com/c/DevSuperior
-Site DevSuperior: https://devsuperior.com.br
+<p>Professor Nélio Alves: https://github.com/devsuperior</p> 
+<p>Canal DevSuperior: https://www.youtube.com/c/DevSuperior</p>
+<p>Site DevSuperior: https://devsuperior.com.br</p>
                        
-
 <ul>
   Tecnologias
   <li>Backend: Java, Maven, SpringBoot, SpringDataJpa, Banco de dados em memória H2, Postgres;</li>
