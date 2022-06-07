@@ -14,3 +14,5 @@
   <li>Nuvem FrontEnd: https://www.netlify.com/ .</li>
 </ul>
 
+<p>Link do projeto: https://dsmovie-fabio.netlify.app/<p>
+
